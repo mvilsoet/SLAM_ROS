@@ -13,3 +13,6 @@ https://user-images.githubusercontent.com/57650580/210686877-edff20fb-4be4-4f89-
 ![Screenshot_5](https://user-images.githubusercontent.com/57650580/210685631-d4ed7b13-cfe2-4bc3-a383-8d3a455ecb9d.png)
 ![Screenshot_6](https://user-images.githubusercontent.com/57650580/210685632-d3b688d1-921c-4dab-a319-d442a4ea7842.png)
 ![Screenshot_7](https://user-images.githubusercontent.com/57650580/210685635-aa049be7-11ad-47c7-928e-b98229ee055c.png)
+
+# To run the project
+The entire repo is a catkin workspace. You need Gazebo and ROS Noetic in order to run the package. Launch the Gazebo Environment, then run the control file for the agent. Then, run the main.py experiments. 
