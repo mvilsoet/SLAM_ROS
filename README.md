@@ -1,4 +1,4 @@
-# SLAM_ROS
+# SLAM in ROS / Gazebo simulator with analysis
 Example of comparative analysis of a few parameters for a SLAM algorithm. The Gazebo environment and the Linux Machine used to run my algorithms are University of Illinois Department of Electrical and Computer Engineering property. 
 
 
